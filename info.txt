@@ -4,3 +4,4 @@ Git is fast and lightweight
 Added by Hari
 Added by You
 SVN is outdated
+SVN was popular before GIT
