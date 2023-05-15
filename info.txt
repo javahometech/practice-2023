@@ -5,3 +5,4 @@ Added by Hari
 Added by You
 SVN is outdated
 SVN was popular before GIT
+Showing merge process
